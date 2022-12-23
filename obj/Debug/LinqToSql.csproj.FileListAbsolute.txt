@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\projects\c#\LinqToSql\bin\Debug\LinqToSql.exe.config
+C:\Users\User\Desktop\projects\c#\LinqToSql\bin\Debug\LinqToSql.exe
+C:\Users\User\Desktop\projects\c#\LinqToSql\bin\Debug\LinqToSql.pdb
+C:\Users\User\Desktop\projects\c#\LinqToSql\obj\Debug\LinqToSql.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\projects\c#\LinqToSql\obj\Debug\LinqToSql.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\projects\c#\LinqToSql\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\projects\c#\LinqToSql\obj\Debug\App.g.cs
+C:\Users\User\Desktop\projects\c#\LinqToSql\obj\Debug\LinqToSql_MarkupCompile.cache
+C:\Users\User\Desktop\projects\c#\LinqToSql\obj\Debug\LinqToSql_MarkupCompile.lref
+C:\Users\User\Desktop\projects\c#\LinqToSql\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\projects\c#\LinqToSql\obj\Debug\LinqToSql.g.resources
+C:\Users\User\Desktop\projects\c#\LinqToSql\obj\Debug\LinqToSql.Properties.Resources.resources
+C:\Users\User\Desktop\projects\c#\LinqToSql\obj\Debug\LinqToSql.csproj.GenerateResource.cache
+C:\Users\User\Desktop\projects\c#\LinqToSql\obj\Debug\LinqToSql.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\projects\c#\LinqToSql\obj\Debug\LinqToSql.exe
+C:\Users\User\Desktop\projects\c#\LinqToSql\obj\Debug\LinqToSql.pdb

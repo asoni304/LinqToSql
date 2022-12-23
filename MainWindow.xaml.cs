@@ -35,7 +35,10 @@ namespace LinqToSql
             // GetCarlaLectures();
             //  GetAllStudentsFromYale();
             // GetAllUniWithFemales();
-            GetAllLecturesAtYale();
+            //GetAllLecturesAtYale();
+            //
+            //UpdateCarla();
+            DeleteLeni();
         }
 
         public void InsertUniversity()
@@ -178,6 +181,29 @@ namespace LinqToSql
                                     select studentLecture.Lecture;
 
             MainDataGrid2.ItemsSource = allLecturesAtYale;
+        }
+
+        public void UpdateCarla()
+        {
+            Student carla = dataContext.Students.FirstOrDefault(st => st.Name.Equals("Carla"));
+
+            carla.Name = "Carla Clotet";
+
+            dataContext.SubmitChanges();
+
+            MainDataGrid2.ItemsSource = dataContext.Students;
+
+        }
+
+        public void DeleteLeni()
+        {
+            Student leni = dataContext.Students.FirstOrDefault(st => st.Name =="Leni");
+
+            dataContext.Students.DeleteOnSubmit(leni);
+            dataContext.SubmitChanges();
+
+            MainDataGrid2.ItemsSource = dataContext.Students;
+
         }
     }
 }
